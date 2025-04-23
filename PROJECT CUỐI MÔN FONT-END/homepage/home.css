@@ -1,0 +1,46 @@
+.thead {
+    background-color: #f8f9fa;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.navbar {
+    padding: 10px 20px;
+}
+
+.navbar-brand img {
+    height: 50px;
+    width: auto;
+    display: block;
+}
+
+.navbar-brand {
+    margin-right: auto;
+    padding: 0;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.menu a {
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.menu a:hover {
+    background-color: #0d6efd;
+    color: #fff;
+}
+.tbody{
+    height:80%;    
+}
+.tbody img{
+    display:block;
+}
+
